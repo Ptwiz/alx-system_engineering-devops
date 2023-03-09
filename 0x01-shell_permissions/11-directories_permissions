@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+rwxXu+X
+chmod -R a+rwxXu+X .
